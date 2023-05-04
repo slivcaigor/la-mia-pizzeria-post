@@ -8,5 +8,6 @@
         public string Description { get; set; }
         public double Price { get; set; }
         public bool IsNew { get; set; }
+        public string Type { get; set; }
     }
 }
